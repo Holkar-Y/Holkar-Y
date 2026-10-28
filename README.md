@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/Education-MCA%20Graduate-312E81?style=flat-square&logo=academia&logoColor=white" alt="MCA Graduate"/>
 <img src="https://img.shields.io/badge/Frontend-React.js-4338CA?style=flat-square&logo=react&logoColor=white" alt="React.js"/>
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-6D28D9?style=flat-square&logo=codefactor&logoColor=white" alt="Software Engineering"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-6D28D9?style=flat-square&logo=codefactor&logoColor=white" alt="Full-Stack Development"/>
 <img src="https://img.shields.io/badge/Location-Indore%2C%20India-1E40AF?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 
 <br/><br/>
@@ -43,23 +43,20 @@
 
 I am an **MCA graduate and aspiring Software Engineer** focused on building practical, maintainable, and user-centric web applications. My current technical strengths are in frontend development with **HTML, CSS, JavaScript, and React.js**, with ongoing learning in backend development using Node.js, Express.js, and MongoDB.
 
-I approach development with an engineering mindset: understanding requirements, breaking problems into manageable components, implementing features incrementally, debugging systematically, and improving code through practice.
-
 I am particularly interested in modern web application architecture, reusable component design, API integration, state management, and the principles that make software reliable, accessible, and maintainable.
 
-My goal is to grow into a well-rounded software engineer who can contribute across the development lifecycle, from designing intuitive interfaces to building dependable backend services.
+🎯 My goal is to become a well-rounded software engineer who can contribute across the development lifecycle, from designing intuitive interfaces to building dependable backend services.
 
 - **Software Engineering:** Problem-solving, debugging, modular design, and maintainable code.
 - **Frontend Development:** Responsive interfaces, reusable React components, and interactive user experiences.
 - **Full-Stack Development:** Learning REST APIs, server-side development, database integration, and authentication fundamentals.
-- **AI / ML:** Interested in exploring intelligent applications, AI-assisted development, and practical machine learning concepts.
-- **Product Engineering:** User-focused implementation, iterative improvement, and attention to usability.
+- **AI & Emerging Technologies:** Interested in understanding how modern technologies can support practical software development.
 
 **Currently Open To**
 - Entry-level Software Developer and Frontend Developer roles.
 - React.js internships and junior development opportunities.
 - Graduate trainee and off-campus engineering opportunities.
-- Collaborative projects and beginner-friendly open-source contributions.
+- Collaborative projects and beginner-friendly development opportunities.
 
 ---
 
@@ -77,7 +74,7 @@ My goal is to grow into a well-rounded software engineer who can contribute acro
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,router&theme=dark" alt="React, Tailwind CSS, Vite, React Router"/>
 </div>
 
-### Backend & Databases
+### Backend & Databases (Currently Learning)
 
 <div>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose&theme=dark" alt="Node.js, Express.js, MongoDB, Mongoose"/>
@@ -86,7 +83,7 @@ My goal is to grow into a well-rounded software engineer who can contribute acro
 ### Cloud, DevOps & Tooling
 
 <div>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=dark" alt="Git, GitHub, VS Code, npm, Postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Git, GitHub, VS Code, npm"/>
 </div>
 
 | Category | Technologies |
@@ -94,7 +91,7 @@ My goal is to grow into a well-rounded software engineer who can contribute acro
 | Programming | JavaScript |
 | Web Fundamentals | HTML5, CSS3, responsive design |
 | Frontend | React.js, React Router, Tailwind CSS |
-| API Integration | Fetch API, JSON, REST API fundamentals |
+| API Integration | Fetch API, JSON, REST APIs — Learning |
 | Backend — Learning | Node.js, Express.js |
 | Database — Learning | MongoDB, Mongoose |
 | Development Tools | Git, GitHub, VS Code, npm |
@@ -104,16 +101,13 @@ My goal is to grow into a well-rounded software engineer who can contribute acro
 
 ## 03. AI / ML Expertise
 
-My current focus is on software development fundamentals and practical web engineering. AI and machine learning are areas of interest that I intend to explore through structured learning and applied projects.
+My current focus is on software development fundamentals and practical web engineering. I am interested in understanding emerging technologies and how they can be applied to build useful software applications as my technical skills grow.
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
 | AI-Assisted Development | Familiarity | Using AI tools to support learning, code exploration, and debugging |
-| Prompt Engineering | Beginner | Developing clearer prompts and iterative problem-solving workflows |
-| Machine Learning Fundamentals | Exploring | Interested in core concepts, model evaluation, and practical applications |
-| Data Processing | Exploring | Interested in structured data, preprocessing, and data-driven applications |
-| AI Application Integration | Exploring | Interested in connecting AI capabilities to useful software products |
-| Responsible AI | Exploring | Interested in reliability, privacy, evaluation, and responsible implementation |
+| Emerging Technologies | Exploring | Interested in understanding new tools and their applications in software development |
+| AI Application Integration | Future Interest | May explore AI-powered features in web applications as my development skills progress |
 
 ---
 
@@ -293,7 +287,7 @@ Developing practical web applications to strengthen frontend engineering skills,
 - Learn backend development fundamentals with Node.js, Express.js, and MongoDB.
 - Improve technical communication and problem-solving through structured practice.
 
-**Skills:** `JavaScript` `React.js` `HTML` `CSS` `REST APIs` `Git` `GitHub` `Node.js — Learning`
+**Skills:** `JavaScript` `React.js` `HTML` `CSS` `REST APIs — Learning` `Git` `GitHub` `Node.js — Learning`
 
 ---
 
@@ -309,61 +303,7 @@ Developing practical web applications to strengthen frontend engineering skills,
 
 ---
 
-## 07. Certifications
-
-Certifications are listed by provider as a place to organize verified credentials. No certification is claimed unless it has actually been earned.
-
-### AWS
-
-<a href="https://aws.amazon.com/certification/">
-<img src="https://img.shields.io/badge/AWS-Certification%20Path-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certification Path"/>
-</a>
-
-### Oracle
-
-<a href="https://education.oracle.com/oracle-certification">
-<img src="https://img.shields.io/badge/Oracle-Certification%20Path-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certification Path"/>
-</a>
-
-### NPTEL
-
-<a href="https://nptel.ac.in/">
-<img src="https://img.shields.io/badge/NPTEL-Courses%20%26%20Certificates-312E81?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Courses"/>
-</a>
-
-### Cisco
-
-<a href="https://www.netacad.com/">
-<img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy"/>
-</a>
-
----
-
-## 08. Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-
-</div>
-
----
-
-## 09. GitHub Analytics
+## 07. GitHub Analytics
 
 <div align="center">
 
@@ -385,17 +325,7 @@ Certifications are listed by provider as a place to organize verified credential
 
 ---
 
-## 10. GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Holkar-Y&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Profile Trophies"/>
-
-</div>
-
----
-
-## 11. Contribution Activity
+## 08. Contribution Activity
 
 <div align="center">
 
@@ -405,17 +335,7 @@ Certifications are listed by provider as a place to organize verified credential
 
 ---
 
-## 12. Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Holkar-Y/Holkar-Y/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
-
-</div>
-
----
-
-## 13. Current Focus
+## 09. Current Focus
 
 ```yaml
 learning:
@@ -424,22 +344,17 @@ learning:
   - Data structures and algorithms
   - Node.js and Express.js
   - MongoDB and Mongoose
-  - REST API design and backend fundamentals
-  - Software engineering principles
+  - REST API fundamentals
 
 building:
   - RecipeFinder: React-based recipe discovery application
   - Shop Sphere: E-commerce frontend project
-  - Weather Application: API-driven weather interface
-  - Practical JavaScript projects
-  - A stronger GitHub portfolio
+  - Practical React projects
 
 exploring:
   - Full-stack application architecture
   - Testing and code quality
-  - Cloud deployment fundamentals
   - AI-assisted application development
-  - Open-source contribution workflows
 
 open_to:
   - Entry-level Software Developer roles
@@ -451,7 +366,7 @@ open_to:
 
 ---
 
-## 14. Connect
+## 10. Connect
 
 <div align="center">
 
@@ -479,7 +394,7 @@ open_to:
 
 ---
 
-## 15. Footer
+## 11. Footer
 
 <div align="center">
 

@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1E,50:312E81,100:6D28D9&height=180&section=header&text=Yashasvi%20Holkar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPMENT&descAlignY=60&descSize=13&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1E,50:312E81,100:6D28D9&height=180&section=header&text=Yashasvi%20Holkar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPMENT&descAlignY=60&descSize=13&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Software+Developer+%7C+MCA+Graduate;Frontend+Engineering+with+React.js;Building+Practical%2C+User-Focused+Applications;Learning+Full-Stack+Development+with+Node.js" alt="Typing SVG" />

@@ -1,28 +1,25 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1E,50:312E81,100:6D28D9&height=180&section=header&text=Yashasvi%20Holkar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPMENT&descAlignY=60&descSize=13&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1E,50:312E81,100:6D28D9&height=180&section=header&text=Yashasvi%20Holkar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20DEVELOPER&descAlignY=60&descSize=15&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Software+Developer+%7C+MCA+Graduate;Frontend+Engineering+with+React.js;Building+Practical%2C+User-Focused+Applications;Learning+Full-Stack+Development+with+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Frontend+Developer+%7C+MCA+Graduate;Building+Responsive+Web+Applications;React.js+%7C+JavaScript+%7C+Modern+UI;Continuously+Learning+and+Building" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Education-MCA%20Graduate-312E81?style=flat-square&logo=academia&logoColor=white" alt="MCA Graduate"/>
 <img src="https://img.shields.io/badge/Frontend-React.js-4338CA?style=flat-square&logo=react&logoColor=white" alt="React.js"/>
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-6D28D9?style=flat-square&logo=codefactor&logoColor=white" alt="Full-Stack Development"/>
+<img src="https://img.shields.io/badge/Focus-Frontend%20Development-6D28D9?style=flat-square&logo=codefactor&logoColor=white" alt="Frontend Development"/>
 <img src="https://img.shields.io/badge/Location-Indore%2C%20India-1E40AF?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 
 <br/><br/>
 
-<a href="https://github.com/Holkar-Y">
-<img src="https://img.shields.io/badge/Portfolio-GitHub%20Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/yashasvi-holkar-3b4443303">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:">
+<a href="mailto:yholkar34@gmail.com">
 <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-312E81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/Holkar-Y">
@@ -41,22 +38,17 @@
 
 ## 01. About Me
 
-I am an **MCA graduate and aspiring Software Engineer** focused on building practical, maintainable, and user-centric web applications. My current technical strengths are in frontend development with **HTML, CSS, JavaScript, and React.js**, with ongoing learning in backend development using Node.js, Express.js, and MongoDB.
+I am an **MCA graduate and Frontend Developer** focused on building responsive, interactive, and user-friendly web applications. My technical strengths include **HTML, CSS, JavaScript, and React.js**, with a growing understanding of backend development using Node.js, Express.js, and MongoDB.
 
-I am particularly interested in modern web application architecture, reusable component design, API integration, state management, and the principles that make software reliable, accessible, and maintainable.
+I am particularly interested in modern frontend development, reusable component design, API integration, state management, and creating seamless user experiences.
 
-🎯 My goal is to become a well-rounded software engineer who can contribute across the development lifecycle, from designing intuitive interfaces to building dependable backend services.
-
-- **Software Engineering:** Problem-solving, debugging, modular design, and maintainable code.
-- **Frontend Development:** Responsive interfaces, reusable React components, and interactive user experiences.
-- **Full-Stack Development:** Learning REST APIs, server-side development, database integration, and authentication fundamentals.
-- **AI & Emerging Technologies:** Interested in understanding how modern technologies can support practical software development.
+🎯 My goal is to strengthen my frontend development skills, build meaningful real-world applications, and contribute to a development team where I can continuously learn, solve problems, and grow through practical experience.
 
 **Currently Open To**
-- Entry-level Software Developer and Frontend Developer roles.
-- React.js internships and junior development opportunities.
-- Graduate trainee and off-campus engineering opportunities.
-- Collaborative projects and beginner-friendly development opportunities.
+- Entry-level Frontend Developer opportunities.
+- React.js internships and junior developer roles.
+- Graduate trainee and off-campus opportunities.
+- Collaborative development projects.
 
 ---
 
@@ -89,7 +81,7 @@ I am particularly interested in modern web application architecture, reusable co
 | Category | Technologies |
 |:---|:---|
 | Programming | JavaScript |
-| Web Fundamentals | HTML5, CSS3, responsive design |
+| Web Fundamentals | HTML5, CSS3, Responsive Design |
 | Frontend | React.js, React Router, Tailwind CSS |
 | API Integration | Fetch API, JSON, REST APIs — Learning |
 | Backend — Learning | Node.js, Express.js |
@@ -99,19 +91,7 @@ I am particularly interested in modern web application architecture, reusable co
 
 ---
 
-## 03. AI / ML Expertise
-
-My current focus is on software development fundamentals and practical web engineering. I am interested in understanding emerging technologies and how they can be applied to build useful software applications as my technical skills grow.
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| AI-Assisted Development | Familiarity | Using AI tools to support learning, code exploration, and debugging |
-| Emerging Technologies | Exploring | Interested in understanding new tools and their applications in software development |
-| AI Application Integration | Future Interest | May explore AI-powered features in web applications as my development skills progress |
-
----
-
-## 04. Featured Projects
+## 03. Featured Projects
 
 Projects below reflect my practical development work and learning. Performance, security, scale, and impact descriptions are limited to implemented features or clearly identified development goals; no unmeasured benchmarks or production deployments are claimed.
 
@@ -164,12 +144,12 @@ A React-based shopping interface created to practice product discovery, reusable
 
 | Attribute | Details |
 |:---|:---|
-| Stack | React.js, JavaScript, CSS, product API, Local Storage |
+| Stack | React.js, JavaScript, CSS, Product API, Local Storage |
 | Scale | Product catalogue supplied by an external API |
 | Performance | Client-side product rendering; further optimization can include pagination and memoization |
 | Security | Frontend demonstration; no payment processing or production authentication is claimed |
 | Impact | Demonstrates product listing, category-based browsing, and cart workflow implementation |
-| Repository | [GitHub Profile](https://github.com/Holkar-Y) — locate the Shop Sphere repository |
+| Repository | [GitHub Profile](https://github.com/Holkar-Y) |
 
 **Engineering Highlights**
 
@@ -207,7 +187,7 @@ A browser-based weather application built to practice JavaScript fundamentals, e
 | Performance | On-demand API requests; response handling and error states are improvement areas |
 | Security | API key handling should be reviewed before public production deployment |
 | Impact | Demonstrates asynchronous JavaScript, geolocation, and dynamic interface updates |
-| Repository | [GitHub Profile](https://github.com/Holkar-Y) — locate the Weather Application repository |
+| Repository | [GitHub Profile](https://github.com/Holkar-Y) |
 
 **Engineering Highlights**
 
@@ -244,7 +224,7 @@ A JavaScript practice project focused on interactive task management and core br
 | Performance | Lightweight client-side interactions |
 | Security | Local browser demonstration; no server-side user data is claimed |
 | Impact | Reinforces DOM manipulation, event handling, and state updates |
-| Repository | [GitHub Profile](https://github.com/Holkar-Y) — locate the To-Do List repository |
+| Repository | [GitHub Profile](https://github.com/Holkar-Y) |
 
 **Engineering Highlights**
 
@@ -266,7 +246,7 @@ A JavaScript practice project focused on interactive task management and core br
 
 ---
 
-## 05. Experience
+## 04. Experience
 
 ### Software Development Projects & Independent Learning
 
@@ -274,7 +254,7 @@ A JavaScript practice project focused on interactive task management and core br
 **Organization:** Independent Projects  
 **Date Range:** 2025 – Present
 
-Developing practical web applications to strengthen frontend engineering skills, understand application architecture, and prepare for entry-level software development opportunities.
+Developing practical web applications to strengthen frontend engineering skills, understand application architecture, and prepare for entry-level frontend development opportunities.
 
 **Scope of Work**
 
@@ -291,7 +271,7 @@ Developing practical web applications to strengthen frontend engineering skills,
 
 ---
 
-## 06. Achievements
+## 05. Achievements
 
 | Recognition | Details |
 |:---|:---|
@@ -299,106 +279,19 @@ Developing practical web applications to strengthen frontend engineering skills,
 | Project-Based Learning | Developed practical frontend applications to reinforce web development concepts |
 | API Integration Practice | Applied asynchronous data fetching and dynamic rendering in personal projects |
 | Continuous Technical Development | Practicing React.js, JavaScript, Git, and backend development fundamentals |
-| Software Engineering Preparation | Preparing for entry-level developer roles and technical interviews |
+| Technical Interview Preparation | Continuously strengthening frontend development and problem-solving skills |
 
 ---
 
-## 07. GitHub Analytics
+## 06. Footer
 
 <div align="center">
 
-<a href="https://github.com/Holkar-Y">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Holkar-Y&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true" alt="GitHub Statistics"/>
-</a>
-
-<a href="https://github.com/Holkar-Y">
-<img height="180" src="https://streak-stats.demolab.com?user=Holkar-Y&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak"/>
-</a>
+**Building one project at a time. Learning something new with every line of code.**
 
 <br/>
 
-<a href="https://github.com/Holkar-Y">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holkar-Y&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most Used GitHub Languages"/>
-</a>
-
-</div>
-
----
-
-## 08. Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Holkar-Y&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
----
-
-## 09. Current Focus
-
-```yaml
-learning:
-  - Advanced JavaScript fundamentals
-  - React.js and component architecture
-  - Data structures and algorithms
-  - Node.js and Express.js
-  - MongoDB and Mongoose
-  - REST API fundamentals
-
-building:
-  - RecipeFinder: React-based recipe discovery application
-  - Shop Sphere: E-commerce frontend project
-  - Practical React projects
-
-exploring:
-  - Full-stack application architecture
-  - Testing and code quality
-  - AI-assisted application development
-
-open_to:
-  - Entry-level Software Developer roles
-  - Frontend Developer opportunities
-  - React.js internships
-  - Graduate trainee programs
-  - Collaborative engineering projects
-```
-
----
-
-## 10. Connect
-
-<div align="center">
-
-<a href="mailto:">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Holkar-Y">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://github.com/Holkar-Y">
-<img src="https://img.shields.io/badge/Portfolio-Projects%20%26%20Code-1E40AF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-**Interested in building useful software and growing with an engineering team.**
-
-</div>
-
----
-
-## 11. Footer
-
-<div align="center">
-
-*“Great software is built through curiosity, thoughtful engineering, and continuous improvement.”*
+*Designing better interfaces. Writing cleaner code. Creating meaningful digital experiences.*
 
 <br/>
 

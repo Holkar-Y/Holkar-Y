@@ -93,154 +93,108 @@ I am particularly interested in modern frontend development, reusable component 
 
 ## 03. Featured Projects
 
-Projects below reflect my practical development work and learning. Performance, security, scale, and impact descriptions are limited to implemented features or clearly identified development goals; no unmeasured benchmarks or production deployments are claimed.
+### 01. RecipeFinder
+
+A React-based recipe discovery application that helps users explore recipes and discover meal ideas through a clean and responsive interface.
 
 <details>
-<summary><strong>01. RecipeFinder — Recipe Discovery Application</strong></summary>
+<summary><b>View Project Details</b></summary>
 
-<br/>
+**Tech Stack:** React.js, JavaScript, Tailwind CSS, Vite, DummyJSON API
 
 **Overview**
-
-A React-based recipe discovery application designed to help users explore recipes through an intuitive interface. The project focuses on reusable components, API-driven content, navigation, and responsive UI development.
-
-| Attribute | Details |
-|:---|:---|
-| Stack | React.js, JavaScript, Tailwind CSS, Vite |
-| Scale | Recipe collection powered by an external API |
-| Performance | Asynchronous data fetching; optimization opportunities include pagination and lazy loading |
-| Security | Uses public recipe data; production deployment would require environment and API security review |
-| Impact | Demonstrates component-based UI development, API integration, and responsive layouts |
-| Repository | [RecipeFinder](https://github.com/Holkar-Y/RecipeFinder) |
+- Built a recipe discovery interface using React.js.
+- Integrated the DummyJSON Recipes API to fetch and display recipe data.
+- Used React Hooks to manage component state and API data.
+- Designed a responsive layout using Tailwind CSS.
+- Displayed recipe information including images, cooking time, rating, and difficulty.
 
 **Engineering Highlights**
-
-- Built reusable navigation and recipe display components.
-- Integrated recipe data from the DummyJSON API.
-- Used React hooks to manage component state and fetch data.
-- Implemented dynamic recipe details using route parameters.
-- Practiced responsive layouts and utility-first styling with Tailwind CSS.
-- Worked through API loading states, data lookup, and routing-related debugging.
+- API integration and dynamic rendering.
+- Component-based architecture.
+- State management using React Hooks.
+- Responsive UI development.
 
 **Planned Improvements**
+- Implement recipe search and filtering.
+- Add a favorites feature.
+- Build individual recipe detail pages.
+- Improve loading and error handling.
 
-- Add recipe search and filtering.
-- Implement favorites with persistent storage.
-- Add loading, empty, and error states.
-- Improve accessibility and component-level testing.
+**Live Demo:** [View RecipeFinder](https://recipe-finder-dr7g.vercel.app/)
 
-**Skills:** `React.js` `JavaScript` `Tailwind CSS` `REST APIs` `React Router` `Git`
+**GitHub Repository:** [View Code](https://github.com/Holkar-Y/RecipeFinder)
 
 </details>
 
-<details>
-<summary><strong>02. Shop Sphere — E-Commerce Frontend</strong></summary>
+---
 
-<br/>
+### 02. Shop Sphere
+
+A React-based e-commerce frontend application featuring product browsing, product details, cart management, and a user-friendly shopping experience.
+
+<details>
+<summary><b>View Project Details</b></summary>
+
+**Tech Stack:** React.js, JavaScript, React Router, Context API, CSS, Fake Store API, Local Storage
 
 **Overview**
-
-A React-based shopping interface created to practice product discovery, reusable UI components, cart interactions, and browser-based persistence.
-
-| Attribute | Details |
-|:---|:---|
-| Stack | React.js, JavaScript, CSS, Product API, Local Storage |
-| Scale | Product catalogue supplied by an external API |
-| Performance | Client-side product rendering; further optimization can include pagination and memoization |
-| Security | Frontend demonstration; no payment processing or production authentication is claimed |
-| Impact | Demonstrates product listing, category-based browsing, and cart workflow implementation |
-| Repository | [GitHub Profile](https://github.com/Holkar-Y) |
+- Built an e-commerce application with product browsing, product details, cart, checkout, authentication, profile, and order management interfaces.
+- Implemented React Router for multi-page navigation and protected routes.
+- Used Context API for managing authentication, cart, and order data.
+- Integrated the Fake Store API to fetch and display product information.
+- Implemented product search, filtering, and sorting functionality.
+- Added cart functionality with quantity updates, item removal, and total price calculation.
+- Used Local Storage for persistent client-side data.
 
 **Engineering Highlights**
-
-- Created product listing and product detail experiences.
-- Practiced category-based product browsing and search/filter interactions.
-- Implemented shopping cart functionality.
-- Used Local Storage to preserve cart data between browser sessions.
-- Worked with API responses and dynamic product information.
-- Practiced component reuse and UI state management.
+- Reusable React components.
+- Client-side routing and protected routes.
+- Context API for shared application state.
+- External API integration.
+- Local Storage-based persistence.
 
 **Planned Improvements**
+- Improve form validation and error handling.
+- Refine authentication flow.
+- Enhance responsive design.
+- Improve checkout and order management workflows.
 
-- Add a dedicated backend and database.
-- Implement authentication and server-side cart persistence.
-- Add automated tests and more comprehensive error handling.
-- Introduce secure checkout integration only through an appropriate payment provider.
+**Live Demo:** [View Shop Sphere](https://shopsphere-three-phi.vercel.app/)
 
-**Skills:** `React.js` `JavaScript` `API Integration` `Local Storage` `UI Development`
+**GitHub Repository:** [View Code](https://github.com/Holkar-Y/ShopSphere)
 
 </details>
 
-<details>
-<summary><strong>03. Weather Application — Location-Based Weather</strong></summary>
+---
 
-<br/>
+### 03. Weather App
 
-**Overview**
-
-A browser-based weather application built to practice JavaScript fundamentals, external API integration, and dynamic DOM updates.
-
-| Attribute | Details |
-|:---|:---|
-| Stack | HTML5, CSS3, JavaScript, Weather API |
-| Scale | Location-based weather lookup through an external service |
-| Performance | On-demand API requests; response handling and error states are improvement areas |
-| Security | API key handling should be reviewed before public production deployment |
-| Impact | Demonstrates asynchronous JavaScript, geolocation, and dynamic interface updates |
-| Repository | [GitHub Profile](https://github.com/Holkar-Y) |
-
-**Engineering Highlights**
-
-- Implemented weather lookup using a location search field.
-- Practiced browser geolocation for location autofill.
-- Retrieved weather data from an external API.
-- Updated the DOM dynamically based on API responses.
-- Explored dynamic backgrounds and user feedback for different weather conditions.
-
-**Planned Improvements**
-
-- Add more detailed loading and error states.
-- Improve validation for empty and invalid location searches.
-- Refine mobile layouts and accessibility.
-- Review API key protection and deployment configuration.
-
-**Skills:** `HTML5` `CSS3` `JavaScript` `Fetch API` `DOM Manipulation` `Geolocation`
-
-</details>
+A weather application that retrieves real-time weather information based on a searched city or the user's current location.
 
 <details>
-<summary><strong>04. JavaScript To-Do List — Task Management</strong></summary>
+<summary><b>View Project Details</b></summary>
 
-<br/>
+**Tech Stack:** HTML5, CSS3, JavaScript, OpenWeather API, Geolocation API
 
 **Overview**
-
-A JavaScript practice project focused on interactive task management and core browser programming concepts.
-
-| Attribute | Details |
-|:---|:---|
-| Stack | HTML5, CSS3, JavaScript |
-| Scale | User-managed task list |
-| Performance | Lightweight client-side interactions |
-| Security | Local browser demonstration; no server-side user data is claimed |
-| Impact | Reinforces DOM manipulation, event handling, and state updates |
-| Repository | [GitHub Profile](https://github.com/Holkar-Y) |
+- Built a weather application that retrieves real-time weather data using the OpenWeather API.
+- Integrated the Geolocation API to detect the user's current location.
+- Implemented city-based weather search functionality.
+- Used JavaScript DOM manipulation to dynamically display weather information.
+- Added dynamic background updates based on weather conditions.
+- Designed a responsive user interface.
 
 **Engineering Highlights**
+- REST API integration.
+- Asynchronous JavaScript.
+- Geolocation functionality.
+- Dynamic DOM updates.
+- Responsive UI development.
 
-- Practiced handling user input and browser events.
-- Built dynamic interactions with JavaScript.
-- Strengthened DOM manipulation and conditional logic.
-- Used the project to reinforce web development fundamentals.
+**Live Demo:** [View Weather App](https://weather-app-xmpj.vercel.app/)
 
-**Planned Improvements**
-
-- Add persistent task storage.
-- Introduce filtering and task status management.
-- Improve keyboard accessibility and input validation.
-- Add tests for core task operations.
-
-**Skills:** `JavaScript` `HTML5` `CSS3` `DOM Manipulation` `Event Handling`
+**GitHub Repository:** [View Code](https://github.com/Holkar-Y/Weather-app)
 
 </details>
 
